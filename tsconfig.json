@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+      "moduleResolution": "node",
+      "esModuleInterop": true,
+      "skipLibCheck": true,
+      "strict": true,
+      "types": ["node", "@wdio/globals/types"]
+    }
+}
+  
